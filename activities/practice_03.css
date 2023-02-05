@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210924/pngtree-health-care-abstract-light-effect-icon-decoration-image_906585.png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+form{  
+    border-width: thick;  
+    border-style: groove;
+    position: absolute;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;   
+}
