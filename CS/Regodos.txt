@@ -1,0 +1,4 @@
+import datetime
+uSeconds = float(input("Seconds: ")) 
+result = datetime.timedelta(seconds = uSeconds)
+print (result)

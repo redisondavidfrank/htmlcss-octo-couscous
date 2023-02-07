@@ -1,0 +1,29 @@
+VERY SHORT QUESTIONS
+1. What is Ethernet?
+- an Ethernet is a system used to connect wired local area networks
+
+2. What are ethernet specifications?
+-Fast Ethernet
+-Gigabit Ethernet
+
+3. What is the full form of IEEE?
+-Institute for Electrical and Electronic Engineers
+
+4. Which cables are used in gigabit Ethernet?
+-CAT5e, CAT6 and CAT6a
+
+5. Give examples of fast Ethernet? 
+-100BASE-TX and 100BASE-FX
+
+SHORT QUESTIONS
+1. What is fast Ethernet?
+-is an internet standard the transmit data over 100mbps on a LAN
+
+2. What is gigabit Ethernet? 
+-is an transmission technology used in LAN that provides data with a speed of 1 billion bits per second
+
+LONG QUESTIONS
+1. Explain different ethernet specifications and standards
+-Fast Ethernet standard is a transmission that provides a speed of 10 to a 100 Mbps. It is a very simple, plug and play configuration that can cover a limit of 10km. It is smaller compared to gigabit ethernet which makes it perfect for offices, schools and even homes.
+
+-Gigabit Ethernet is a fast ethernet standard that delivers and transmit over 1 billion bits per second. With a larger scale coverage of 70km, it is vatly complicated compared to fast ethernet.This is perfect for large companies that require transmission for huge data
